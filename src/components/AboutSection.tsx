@@ -128,7 +128,7 @@ export const AboutSection: React.FC = () => {
                   <div className="absolute bottom-[calc(100%+12px)] left-1/2 -translate-x-1/2 z-30 pointer-events-none animate-in fade-in zoom-in-95 duration-200">
                     <div className="w-36 sm:w-44 aspect-[4/3] rounded-xl sm:rounded-2xl overflow-hidden shadow-[0_16px_36px_rgba(0,0,0,0.22)] border-2 border-white ring-1 ring-black/10 bg-stone-100">
                       <img
-                        src="/public/images/popup_mountain.jpg"
+                        src="/public/popup_mountain.jpg"
                         alt="Alpine Mountain View"
                         className="w-full h-full object-cover"
                         referrerPolicy="no-referrer"
@@ -151,7 +151,7 @@ export const AboutSection: React.FC = () => {
                   }`}
                 >
                   <img
-                    src="/public/images/popup_mountain.jpg"
+                    src="/public/popup_mountain.jpg"
                     alt="Scenic mountain landscape"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
@@ -203,7 +203,7 @@ export const AboutSection: React.FC = () => {
                   <div className="absolute bottom-[calc(100%+12px)] left-1/2 -translate-x-1/2 z-30 pointer-events-none animate-in fade-in zoom-in-95 duration-200">
                     <div className="w-36 sm:w-44 aspect-[4/3] rounded-xl sm:rounded-2xl overflow-hidden shadow-[0_16px_36px_rgba(0,0,0,0.22)] border-2 border-white ring-1 ring-black/10 bg-stone-100">
                       <img
-                        src="/public/images/popup_road.jpg"
+                        src="/public/popup_road.jpg"
                         alt="Scenic Coastal Route"
                         className="w-full h-full object-cover"
                         referrerPolicy="no-referrer"
@@ -226,7 +226,7 @@ export const AboutSection: React.FC = () => {
                   }`}
                 >
                   <img
-                    src="/public/images/popup_road.jpg"
+                    src="/public/popup_road.jpg"
                     alt="Scenic open road"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
