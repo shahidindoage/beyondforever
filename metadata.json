@@ -1,0 +1,6 @@
+{
+  "name": "Beyond Forever Earth - Luxury Travel Planners",
+  "description": "Personalized luxury travel experiences, designed around your dreams, interests and pace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
